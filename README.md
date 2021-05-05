@@ -1,16 +1,15 @@
-Kernel Simulator 
+# Kernel Simulator 
 [Version 1.00] 
 February 5, 2021
 
-===================
 CONTACT INFORMATION
 ___________________
 
 Contact Name:		Trong Nguyen, 100848232
-                Evan Smedley, 100848232
+                	Evan Smedley, 100848232
 Affiliation: 		Carleton University - Systems and Computer Engineering
 
-===========
+
 DESCRIPTION
 ___________
 
@@ -18,17 +17,19 @@ ___________
 simulates a simple OS kernel, which can be used for performance analysis of
 various scheduling algorithms.
 
+![image](https://user-images.githubusercontent.com/55768917/117086371-5c0c5880-ad1a-11eb-8132-4dbdd025609e.png)
+
 - The application is composed of five files:
 	main.c				(main C programming script)
 	main.exe			(excutable file generated from main.c)
 	test1.bat	 		(batch file for test1.txt)
 	test1.txt	 		(text input file for test1.bat)
 	test2.bat			(batch file for test2.txt)
-	test2.txt 		(text input file for test2.bat)
+	test2.txt 			(text input file for test2.bat)
 	test3.bat			(batch file for test3.txt)
 	test3.txt			(text input file for test3.bat)
 
-============
+
 INSTALLATION
 ____________
 
@@ -42,7 +43,7 @@ language update C17 ISO/IEC 9899:2018.
 No other supplementary libraries and testing file with modular dependencies
 are required to run this application.
 
-=====
+
 USAGE
 _____
 
@@ -105,14 +106,12 @@ needs the format of the output to only have one space in between output
 values, there are alternate fprintf statements commented out in the transition
 function starting at line 170.
 
-=======
 CREDITS
 _______
 
 Thanks to the support of TAs and Instructors during the development of this
 application.
 
-=======
 LICENSE
 _______
 

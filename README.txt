@@ -17,8 +17,6 @@ ___________
 simulates a simple OS kernel, which can be used for performance analysis of
 various scheduling algorithms.
 
-![image](https://user-images.githubusercontent.com/55768917/117086371-5c0c5880-ad1a-11eb-8132-4dbdd025609e.png)
-
 - The application is composed of five files:
 	main.c				(main C programming script)
 	main.exe			(excutable file generated from main.c)

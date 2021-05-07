@@ -109,7 +109,7 @@ function starting at line 170.
 CREDITS
 _______
 
-Thanks to the support of TAs and Instructors during the development of this
+Thanks to the support of TAs and Instructor during the development of this
 application.
 
 LICENSE

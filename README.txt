@@ -5,8 +5,8 @@ February 5, 2021
 CONTACT INFORMATION
 ___________________
 
-Contact Name:		Trong Nguyen, 100848232
-                	Evan Smedley, 100848232
+Contact Name:		Trong Nguyen
+                	Evan Smedley
 Affiliation: 		Carleton University - Systems and Computer Engineering
 
 

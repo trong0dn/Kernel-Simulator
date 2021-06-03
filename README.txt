@@ -1,4 +1,4 @@
-# Kernel Simulator 
+Kernel Simulator 
 [Version 1.00] 
 February 5, 2021
 
